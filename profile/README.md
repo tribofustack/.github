@@ -1,7 +1,23 @@
-## Hi there 👋
+# TribofuStack
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Official GitHub organization for TribofuStack.
+
+## Key Features
+
+- 📈 **Scalable Architecture:** Ready to grow with your business. 
+- 🔍 **Microservices-based:** For easy updates and scalability. 
+- 🧩 **Domain-Driven Design:** Tackles complex business challenges effectively. 
+- 🌐 **Seamless Integration:** Robust APIs for easy third-party and internal system integration. 
+
+## Repositories
+
+Explore our dedicated repositories for each component of the Orderly RMS:
+
+- **[orderly](https://github.com/tribofustack/orderly):** The main repository for the Orderly RMS, encompassing the core application logic and APIs.
+- **[orderly-lambda-api-gateway](https://github.com/tribofustack/orderly-lambda-api-gateway):** Manages API requests with AWS Lambda for serverless execution.
+- **[orderly-k8s-infra-terraform](https://github.com/tribofustack/orderly-k8s-infra-terraform):** Provisions Kubernetes clusters for scalable service deployment.
+- **[orderly-db-infra-terraform](https://github.com/tribofustack/orderly-db-infra-terraform):** Sets up and maintains our database environment, ensuring security and scalability.
+
+## License
+
+All TribofuStack repositories are under the MIT License. See each repository's `LICENSE` file for more details.
