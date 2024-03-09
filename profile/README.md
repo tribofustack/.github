@@ -13,8 +13,8 @@ Official GitHub organization for TribofuStack.
 
 Explore our dedicated repositories for each component of the Orderly RMS:
 
-- **[orderly](https://github.com/tribofustack/orderly):** The main repository for the Orderly RMS, encompassing the core application logic and APIs.
-- **[orderly-lambda-api-gateway](https://github.com/tribofustack/orderly-lambda-api-gateway):** Manages API requests with AWS Lambda for serverless execution.
+- **[orderly-api](https://github.com/tribofustack/orderly-api):** The main repository for the Orderly RMS, encompassing the core application logic and APIs.
+- **[orderly-serverless-function](https://github.com/tribofustack/orderly-serverless-function):** Manages API requests with Google Cloud Function for serverless execution.
 - **[orderly-k8s-infra-terraform](https://github.com/tribofustack/orderly-k8s-infra-terraform):** Provisions Kubernetes clusters for scalable service deployment.
 - **[orderly-db-infra-terraform](https://github.com/tribofustack/orderly-db-infra-terraform):** Sets up and maintains our database environment, ensuring security and scalability.
 
