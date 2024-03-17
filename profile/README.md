@@ -1,25 +1,25 @@
 # TribofuStack
 
-Official GitHub organization for TribofuStack.
+Welcome to the official GitHub organization for TribofuStack.
 
 ## Key Features
 
-- 📈 **Scalable Architecture:** Ready to grow with your business. 
-- 🔍 **Microservices-based:** For easy updates and scalability. 
-- 🧩 **Domain-Driven Design:** Tackles complex business challenges effectively. 
-- 🌐 **Seamless Integration:** Robust APIs for easy third-party and internal system integration. 
+- 📈 **Scalable Architecture:** Built to grow with your business.
+- 🔍 **Microservices:** Ensures easy updates and enhanced scalability.
+- 🧩 **Domain-Driven Design:** Addresses complex business challenges.
+- 🌐 **Seamless Integration:** Provides robust APIs for easy integration with external and internal systems.
 
 ## Repositories
 
-Explore our dedicated repositories for each component of the Orderly RMS:
+Discover our repositories, tailored to various components of the Orderly RMS:
 
-- **[orderly-api](https://github.com/tribofustack/orderly-api):** The main repository for the Orderly RMS, encompassing the core application logic and APIs.
-- **[orderly-api-gateway](https://github.com/tribofustack/orderly-api-gateway):** Central hub for Orderly RMS, leveraging Kong & Nginx for secure, efficient API management.
-- **[orderly-serverless-function](https://github.com/tribofustack/orderly-serverless-function):** Manages API requests with Google Cloud Function for serverless execution.
-- **[orderly-infra](https://github.com/tribofustack/orderly-infra):** Sets up and maintains our infrastructure for Orderly service.
-- **[kubernetes-engine-iac](https://github.com/tribofustack/kubernetes-engine-iac):** Provisions a Kubernetes module and clusters for scalable service deployment.
-- **[cloudsql-iac](https://github.com/tribofustack/cloudsql-iac):** Provisions database PostgreSQL module, ensuring security and scalability.
+- **[orderly-api](https://github.com/tribofustack/orderly-api):** The core API for the Orderly RMS.
+- **[cloudsql-iac](https://github.com/tribofustack/cloudsql-iac):** Manages PostgreSQL database provisioning, emphasizing security and scalability.
+- **[orderly-infra](https://github.com/tribofustack/orderly-infra):** Automates infrastructure setup and maintenance on Google Cloud Platform (GCP) using Terraform.
+- **[orderly-api-gateway](https://github.com/tribofustack/orderly-api-gateway):** Acts as the central hub for API management, leveraging Kong & Nginx for security and efficiency.
+- **[kubernetes-engine-iac](https://github.com/tribofustack/kubernetes-engine-iac):** Provisions Kubernetes clusters for service deployment, supporting scalability.
+- **[orderly-serverless-function](https://github.com/tribofustack/orderly-serverless-function):** Manages API requests through Google Cloud Function for serverless operation.
 
 ## License
 
-All TribofuStack repositories are under the MIT License. See each repository's `LICENSE` file for more details.
+All TribofuStack repositories are licensed under the MIT License. See the `LICENSE` file in each repository for details.
