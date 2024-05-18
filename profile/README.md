@@ -13,12 +13,11 @@ Welcome to the official GitHub organization for TribofuStack.
 
 Discover our repositories, tailored to various components of the Orderly RMS:
 
-- **[orderly-api](https://github.com/tribofustack/orderly-api):** The core API for the Orderly RMS.
-- **[cloudsql-iac](https://github.com/tribofustack/cloudsql-iac):** Manages PostgreSQL database provisioning, emphasizing security and scalability.
-- **[orderly-infra](https://github.com/tribofustack/orderly-infra):** Automates infrastructure setup and maintenance on Google Cloud Platform (GCP) using Terraform.
-- **[orderly-api-gateway](https://github.com/tribofustack/orderly-api-gateway):** Acts as the central hub for API management, leveraging Kong & Nginx for security and efficiency.
-- **[kubernetes-engine-iac](https://github.com/tribofustack/kubernetes-engine-iac):** Provisions Kubernetes clusters for service deployment, supporting scalability.
-- **[orderly-serverless-function](https://github.com/tribofustack/orderly-serverless-function):** Manages API requests through Google Cloud Function for serverless operation.
+- **[auth](https://github.com/tribofustack/ms-auth):** Service to generate and control access tokens.
+- **[checkin](https://github.com/tribofustack/ms-checkin):** Service for handle customers. categories and products.
+- **[checkout](https://github.com/tribofustack/ms-checkout):** Service for handle order items and orders.
+- **[financial](https://github.com/tribofustack/ms-financial):** Service for handle payments and Mercado Pago integration.
+- **[orderly-api-gateway](https://github.com/tribofustack/orderly-api-gateway):** Acts as the central hub for API management, leveraging Kong & Nginx for security and efficiency, and using RabbitMQ as message broker.
 
 ## License
 
